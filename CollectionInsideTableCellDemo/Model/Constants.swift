@@ -7,3 +7,10 @@
 //
 
 import Foundation
+
+
+enum CellType {
+    case shop
+    case category
+    case item
+}
